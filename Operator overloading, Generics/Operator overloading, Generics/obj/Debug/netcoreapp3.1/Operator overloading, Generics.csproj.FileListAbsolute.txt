@@ -1,0 +1,14 @@
+C:\Users\Emil Abdullayev\Desktop\My Projects\Operator overloading, Generics\Operator overloading, Generics\bin\Debug\netcoreapp3.1\Operator overloading, Generics.exe
+C:\Users\Emil Abdullayev\Desktop\My Projects\Operator overloading, Generics\Operator overloading, Generics\bin\Debug\netcoreapp3.1\Operator overloading, Generics.deps.json
+C:\Users\Emil Abdullayev\Desktop\My Projects\Operator overloading, Generics\Operator overloading, Generics\bin\Debug\netcoreapp3.1\Operator overloading, Generics.runtimeconfig.json
+C:\Users\Emil Abdullayev\Desktop\My Projects\Operator overloading, Generics\Operator overloading, Generics\bin\Debug\netcoreapp3.1\Operator overloading, Generics.runtimeconfig.dev.json
+C:\Users\Emil Abdullayev\Desktop\My Projects\Operator overloading, Generics\Operator overloading, Generics\bin\Debug\netcoreapp3.1\Operator overloading, Generics.dll
+C:\Users\Emil Abdullayev\Desktop\My Projects\Operator overloading, Generics\Operator overloading, Generics\bin\Debug\netcoreapp3.1\Operator overloading, Generics.pdb
+C:\Users\Emil Abdullayev\Desktop\My Projects\Operator overloading, Generics\Operator overloading, Generics\obj\Debug\netcoreapp3.1\Operator overloading, Generics.csproj.AssemblyReference.cache
+C:\Users\Emil Abdullayev\Desktop\My Projects\Operator overloading, Generics\Operator overloading, Generics\obj\Debug\netcoreapp3.1\Operator overloading, Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil Abdullayev\Desktop\My Projects\Operator overloading, Generics\Operator overloading, Generics\obj\Debug\netcoreapp3.1\Operator overloading, Generics.AssemblyInfoInputs.cache
+C:\Users\Emil Abdullayev\Desktop\My Projects\Operator overloading, Generics\Operator overloading, Generics\obj\Debug\netcoreapp3.1\Operator overloading, Generics.AssemblyInfo.cs
+C:\Users\Emil Abdullayev\Desktop\My Projects\Operator overloading, Generics\Operator overloading, Generics\obj\Debug\netcoreapp3.1\Operator overloading, Generics.csproj.CoreCompileInputs.cache
+C:\Users\Emil Abdullayev\Desktop\My Projects\Operator overloading, Generics\Operator overloading, Generics\obj\Debug\netcoreapp3.1\Operator overloading, Generics.dll
+C:\Users\Emil Abdullayev\Desktop\My Projects\Operator overloading, Generics\Operator overloading, Generics\obj\Debug\netcoreapp3.1\Operator overloading, Generics.pdb
+C:\Users\Emil Abdullayev\Desktop\My Projects\Operator overloading, Generics\Operator overloading, Generics\obj\Debug\netcoreapp3.1\Operator overloading, Generics.genruntimeconfig.cache
